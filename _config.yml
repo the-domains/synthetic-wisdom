@@ -1,0 +1,14 @@
+layout_spectrum: 0.8346903659403324
+typography_spectrum: 0.6563024984207004
+color:
+  brandStrength: 0.24248267989605665
+  lightness: 0.04838888579979539
+  saturation: 0.45944658876396716
+  rhythmicContrast: 0.7550782097969204
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+name: synthetic wisdom
